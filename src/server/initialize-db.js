@@ -9,4 +9,4 @@ async function initializeDB() {
     }
 }
 
-initializeDB();
+// initializeDB();
